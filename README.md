@@ -6,6 +6,8 @@
 
 **License:** MIT License
 
+## Motivation
+
 When writing mathematical expressions, we generally utilise what is known as infix notation. In infix form, an operator is written in between the two operands on which the operation is to be evaluated.
 
 Evaluation of these operators is then in the order of **PEMDAS**:
